@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm interest in: software and web development.<br>I'm currently learning: qt, c, and c++.<br>I'm working on: nothing.<br>What I wanted to do: nothing.<br>Facts: I got nothing to do.</p>
+<p align="left">I'm interest in: software and web development.<br>I'm currently learning: qt, and c++.<br>I'm working on: nothing.<br>What I wanted to do: nothing.<br>Facts: I got nothing to do.</p>
 
 ###
 
